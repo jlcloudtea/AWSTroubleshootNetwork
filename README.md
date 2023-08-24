@@ -8,7 +8,7 @@ Target: Fix the web access to the Public IP address and autoscaling issues.
 
 Download the script and run in bash envoriment.
 
-git clone https://github.com/jlcloudtea/TroubleshootNetwork TRACOscript
+git clone https://github.com/jlcloudtea/AWSTroubleshootNetwork TRACOscript
 
 cd TRACOscript
 
